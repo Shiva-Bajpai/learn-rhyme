@@ -30,12 +30,6 @@ yarn run dev
 ```
 The app will be available at http://localhost:3000.
 
-🧩 Tech Stack
-
-⚛️ React (or Next.js if used)
-🎨 Tailwind CSS (if applicable)
-📦 Yarn
-
 📬 Contributions
 Got rhymes or code to share? Feel free to fork the repo and make a pull request!
 
